@@ -1,12 +1,16 @@
 # DJ Haley
 ## Systems Curriculum
 
+Jordan Systems Curriculum
+
 Phase 1: Bare Metal Foundations
+
 0. The Art of 64-bit Assembly - Randall Hyde
 1. The Art of ARM Assembly - Randall Hyde
 2. The C Programming Language (K&R) - Brian Kernighan & Dennis Ritchie
 
 Phase 2: C Mastery
+
 3. Modern C - Jens Gustedt
 4. Expert C Programming - Peter van der Linden
 
