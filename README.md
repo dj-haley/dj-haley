@@ -1,8 +1,6 @@
 # DJ Haley
 ## Systems Curriculum
 
-Jordan Systems Curriculum
-
 Phase 1: Bare Metal Foundations
 
 0. The Art of 64-bit Assembly - Randall Hyde
